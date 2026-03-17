@@ -130,7 +130,7 @@ export default async function CityPage({ params }: PageProps) {
           {otherCities.map((c) => (
             <Link
               key={c.slug}
-              href={`/hotels-with-jacuzzi-in-${c.slug}`}
+              href={`/hotels-with-jacuzzi-in/${c.slug}`}
               className="block p-4 rounded-lg border border-gray-200 hover:border-blue-300 hover:shadow-md transition-all text-center"
             >
               <div className="font-semibold text-gray-900 text-sm">

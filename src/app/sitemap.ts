@@ -5,7 +5,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://bestjacuzzihotels.com";
 
   const cityPages = cities.map((city) => ({
-    url: `${baseUrl}/hotels-with-jacuzzi-in-${city.slug}`,
+    url: `${baseUrl}/hotels-with-jacuzzi-in/${city.slug}`,
     lastModified: new Date("2026-03-17"),
     changeFrequency: "monthly" as const,
     priority: 0.8,

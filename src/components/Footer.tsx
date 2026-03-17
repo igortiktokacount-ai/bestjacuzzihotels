@@ -50,7 +50,7 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li>
                 <Link
-                  href="/hotels-with-jacuzzi-in-new-york-city-ny"
+                  href="/hotels-with-jacuzzi-in/new-york-city-ny"
                   className="hover:text-white transition-colors"
                 >
                   New York City
@@ -58,7 +58,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="/hotels-with-jacuzzi-in-las-vegas-nv"
+                  href="/hotels-with-jacuzzi-in/las-vegas-nv"
                   className="hover:text-white transition-colors"
                 >
                   Las Vegas
@@ -66,7 +66,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="/hotels-with-jacuzzi-in-miami-fl"
+                  href="/hotels-with-jacuzzi-in/miami-fl"
                   className="hover:text-white transition-colors"
                 >
                   Miami
@@ -74,7 +74,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="/hotels-with-jacuzzi-in-nashville-tn"
+                  href="/hotels-with-jacuzzi-in/nashville-tn"
                   className="hover:text-white transition-colors"
                 >
                   Nashville

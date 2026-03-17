@@ -5,7 +5,7 @@ import { City } from "@/data/cities";
 export default function CityCard({ city }: { city: City }) {
   return (
     <Link
-      href={`/hotels-with-jacuzzi-in-${city.slug}`}
+      href={`/hotels-with-jacuzzi-in/${city.slug}`}
       className="group block rounded-xl overflow-hidden border border-gray-200 hover:shadow-xl transition-all duration-300"
     >
       <div className="relative h-48">

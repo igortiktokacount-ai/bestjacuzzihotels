@@ -24,7 +24,7 @@ export default function CityCard({ city }: { city: City }) {
         </div>
       </div>
       <div className="p-4 flex items-center justify-between" style={{background: "#FAFAF8", borderTop: "1px solid #E8E4DD"}}>
-        <span className="text-sm text-gray-500">From <strong className="text-gray-800">${city.hotels[0]?.priceRange?.split("–")[0] || "$150"}</strong>/night</span>
+        <span className="text-sm text-gray-500">From <strong className="text-gray-800">{city.hotels[0]?.priceRange?.split("–")[0] || "$150"}</strong>/night</span>
         <span className="text-sm font-semibold transition-all group-hover:translate-x-1 duration-200 inline-block" style={{color: "#B8965A"}}>View hotels →</span>
       </div>
     </Link>

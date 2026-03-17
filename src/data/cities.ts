@@ -963,7 +963,7 @@ export const cities: City[] = [
     name: "Atlanta",
     state: "GA",
     slug: "atlanta-ga",
-    photo: "https://images.unsplash.com/photo-1575917463057-3a61a6c2b8fe?w=800&h=400&fit=crop&q=80",
+    photo: "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=800&h=400&fit=crop&q=80",
     intro:
       "Atlanta's booming hotel market offers excellent jacuzzi suite options across the city. From the upscale Buckhead corridor to the trendy Midtown arts district and historic downtown, the ATL delivers Southern luxury with modern flair — and often at prices well below coastal cities.",
     hotels: [
@@ -1057,7 +1057,7 @@ export const cities: City[] = [
     name: "New Orleans",
     state: "LA",
     slug: "new-orleans-la",
-    photo: "https://images.unsplash.com/photo-1572973677213-7ff17e42f9c8?w=800&h=400&fit=crop&q=80",
+    photo: "https://images.unsplash.com/photo-1543393716-375f47996a77?w=800&h=400&fit=crop&q=80",
     intro:
       "New Orleans brings its signature joie de vivre to the jacuzzi hotel experience. French Quarter courtyards with hidden hot tubs, Garden District mansions with antique-filled whirlpool suites, and Warehouse District lofts with modern soaking tubs — NOLA does luxury bathing with unmatched character and charm.",
     hotels: [

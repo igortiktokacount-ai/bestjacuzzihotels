@@ -1,4 +1,16 @@
+import Image from "next/image";
 import { Hotel } from "@/data/cities";
+
+const hotelPhotos = [
+  "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=300&h=200&fit=crop&q=80",
+  "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=300&h=200&fit=crop&q=80",
+  "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=300&h=200&fit=crop&q=80",
+  "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=300&h=200&fit=crop&q=80",
+  "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=300&h=200&fit=crop&q=80",
+  "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=300&h=200&fit=crop&q=80",
+  "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=300&h=200&fit=crop&q=80",
+  "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=300&h=200&fit=crop&q=80",
+];
 
 function StarRating({ rating }: { rating: number }) {
   return (
@@ -28,31 +40,17 @@ export default function HotelCard({
 }) {
   const bookingUrl = `https://www.booking.com/searchresults.html?ss=${encodeURIComponent(cityName)}+jacuzzi+room&aid=AFFILIATE_ID`;
 
-  const bgColors = [
-    "bg-blue-50",
-    "bg-indigo-50",
-    "bg-sky-50",
-    "bg-cyan-50",
-    "bg-teal-50",
-    "bg-blue-50",
-    "bg-indigo-50",
-    "bg-sky-50",
-  ];
-
   return (
     <div className="bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-lg transition-shadow">
       <div className="flex flex-col sm:flex-row">
-        <div
-          className={`${bgColors[index % bgColors.length]} sm:w-48 h-32 sm:h-auto flex items-center justify-center shrink-0`}
-        >
-          <div className="text-center p-4">
-            <div className="text-3xl font-bold text-blue-600/30">
-              #{index + 1}
-            </div>
-            <div className="text-xs text-blue-600/50 mt-1">
-              {hotel.neighborhood}
-            </div>
-          </div>
+        <div className="relative sm:w-48 h-32 sm:h-auto shrink-0">
+          <Image
+            src={hotelPhotos[index % hotelPhotos.length]}
+            alt={`${hotel.name} jacuzzi room`}
+            fill
+            className="object-cover"
+            unoptimized
+          />
         </div>
         <div className="p-5 flex-1">
           <div className="flex flex-wrap items-start justify-between gap-2 mb-2">

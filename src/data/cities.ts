@@ -681,7 +681,7 @@ export const cities: City[] = [
     name: "Orlando",
     state: "FL",
     slug: "orlando-fl",
-    photo: "https://images.unsplash.com/photo-1575510129166-d4e6f29a7e1e?w=800&h=400&fit=crop&q=80",
+    photo: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=400&fit=crop&q=80",
     intro:
       "Orlando isn't just for theme parks — it's also a top destination for luxury jacuzzi suites. From resort villas near Disney to boutique hotels in downtown Orlando, you'll find private whirlpool rooms perfect for unwinding after a day at the parks or exploring Florida's natural beauty.",
     hotels: [
@@ -775,7 +775,7 @@ export const cities: City[] = [
     name: "Denver",
     state: "CO",
     slug: "denver-co",
-    photo: "https://images.unsplash.com/photo-1546156280-8aa3abcf6c1f?w=800&h=400&fit=crop&q=80",
+    photo: "https://images.unsplash.com/photo-1619468129361-605ebea04b44?w=800&h=400&fit=crop&q=80",
     intro:
       "Denver's hotel scene blends Rocky Mountain ruggedness with urban sophistication. After a day skiing, hiking, or exploring the craft beer scene, nothing beats soaking in a private jacuzzi with mountain views. From LoDo lofts to Cherry Creek boutique hotels, the Mile High City delivers.",
     hotels: [
@@ -1057,7 +1057,7 @@ export const cities: City[] = [
     name: "New Orleans",
     state: "LA",
     slug: "new-orleans-la",
-    photo: "https://images.unsplash.com/photo-1569943526559-dc9d66dcb76d?w=800&h=400&fit=crop&q=80",
+    photo: "https://images.unsplash.com/photo-1572973677213-7ff17e42f9c8?w=800&h=400&fit=crop&q=80",
     intro:
       "New Orleans brings its signature joie de vivre to the jacuzzi hotel experience. French Quarter courtyards with hidden hot tubs, Garden District mansions with antique-filled whirlpool suites, and Warehouse District lofts with modern soaking tubs — NOLA does luxury bathing with unmatched character and charm.",
     hotels: [

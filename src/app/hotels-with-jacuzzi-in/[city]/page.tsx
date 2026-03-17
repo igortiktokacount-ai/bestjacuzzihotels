@@ -64,27 +64,29 @@ export default async function CityPage({ params }: PageProps) {
       />
 
       {/* Hero */}
-      <section className="bg-gradient-to-br from-blue-600 to-indigo-700 text-white">
+      <section className="text-white" style={{background: "#1B2B48"}}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-20">
-          <nav className="text-sm text-blue-200 mb-4">
-            <Link href="/" className="hover:text-white transition-colors">
+          <nav className="text-sm mb-4" style={{color: "rgba(212,175,122,0.7)"}}>
+            <Link href="/" className="hover:text-white transition-colors" style={{color: "#D4AF7A"}}>
               Home
             </Link>
-            <span className="mx-2">/</span>
-            <span>
+            <span className="mx-2" style={{color: "rgba(255,255,255,0.4)"}}>/</span>
+            <span className="text-white/70">
               {city.name}, {city.state}
             </span>
           </nav>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight">
-            Best Hotels with Jacuzzi in Room in {city.name}, {city.state} (2026)
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight" style={{fontFamily: "var(--font-playfair)"}}>
+            Best Hotels with Jacuzzi in Room in{" "}
+            <em className="font-normal" style={{color: "#D4AF7A"}}>{city.name}, {city.state}</em>{" "}
+            (2026)
           </h1>
-          <p className="mt-4 text-lg text-blue-100 max-w-3xl">{city.intro}</p>
+          <p className="mt-4 text-lg text-white/70 max-w-3xl">{city.intro}</p>
         </div>
       </section>
 
       {/* Hotel List */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <h2 className="text-2xl font-bold text-gray-900 mb-8">
+        <h2 className="text-2xl font-bold mb-8" style={{fontFamily: "var(--font-playfair)", color: "#1B2B48"}}>
           Top {city.hotels.length} Jacuzzi Hotels in {city.name}
         </h2>
         <div className="space-y-6">
@@ -100,18 +102,18 @@ export default async function CityPage({ params }: PageProps) {
       </section>
 
       {/* FAQ Section */}
-      <section className="bg-gray-50 py-12">
+      <section className="py-12" style={{background: "#F5F3EF"}}>
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl font-bold text-gray-900 mb-8">
+          <h2 className="text-2xl font-bold mb-8" style={{fontFamily: "var(--font-playfair)", color: "#1B2B48"}}>
             Frequently Asked Questions About Jacuzzi Hotels in {city.name}
           </h2>
           <div className="space-y-6">
             {city.faqs.map((faq) => (
               <div
                 key={faq.question}
-                className="bg-white rounded-xl border border-gray-200 p-6"
+                className="bg-white rounded-2xl border border-gray-100 p-6"
               >
-                <h3 className="text-lg font-semibold text-gray-900 mb-2">
+                <h3 className="text-lg font-semibold mb-2" style={{color: "#1B2B48"}}>
                   {faq.question}
                 </h3>
                 <p className="text-gray-600 leading-relaxed">{faq.answer}</p>
@@ -123,7 +125,7 @@ export default async function CityPage({ params }: PageProps) {
 
       {/* Internal Links */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <h2 className="text-2xl font-bold text-gray-900 mb-6">
+        <h2 className="text-2xl font-bold mb-6" style={{fontFamily: "var(--font-playfair)", color: "#1B2B48"}}>
           Explore More Cities
         </h2>
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4">
@@ -131,9 +133,10 @@ export default async function CityPage({ params }: PageProps) {
             <Link
               key={c.slug}
               href={`/hotels-with-jacuzzi-in/${c.slug}`}
-              className="block p-4 rounded-lg border border-gray-200 hover:border-blue-300 hover:shadow-md transition-all text-center"
+              className="block p-4 rounded-xl border border-gray-200 hover:shadow-md transition-all text-center"
+              style={{borderColor: "#E8E4DD"}}
             >
-              <div className="font-semibold text-gray-900 text-sm">
+              <div className="font-semibold text-sm" style={{color: "#1B2B48"}}>
                 {c.name}
               </div>
               <div className="text-xs text-gray-500 mt-1">{c.state}</div>

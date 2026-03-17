@@ -18,7 +18,7 @@ function StarRating({ rating }: { rating: number }) {
       {Array.from({ length: 5 }, (_, i) => (
         <svg
           key={i}
-          className={`w-4 h-4 ${i < rating ? "text-yellow-400" : "text-gray-300"}`}
+          className={`w-4 h-4 ${i < rating ? "text-[#B8965A]" : "text-gray-300"}`}
           fill="currentColor"
           viewBox="0 0 20 20"
         >
@@ -41,7 +41,7 @@ export default function HotelCard({
   const bookingUrl = `https://www.booking.com/searchresults.html?ss=${encodeURIComponent(cityName)}+jacuzzi+room&aid=AFFILIATE_ID`;
 
   return (
-    <div className="bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-lg transition-shadow">
+    <div className="bg-white rounded-2xl overflow-hidden hover:shadow-xl transition-all duration-300 border border-gray-100">
       <div className="flex flex-col sm:flex-row">
         <div className="relative sm:w-48 h-32 sm:h-auto shrink-0">
           <Image
@@ -54,8 +54,8 @@ export default function HotelCard({
         </div>
         <div className="p-5 flex-1">
           <div className="flex flex-wrap items-start justify-between gap-2 mb-2">
-            <h3 className="text-lg font-bold text-gray-900">{hotel.name}</h3>
-            <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold bg-green-100 text-green-800">
+            <h3 className="text-lg font-bold" style={{fontFamily: "var(--font-playfair)", color: "#1B2B48"}}>{hotel.name}</h3>
+            <span className="px-3 py-1 rounded-full text-xs font-bold text-white" style={{background: "linear-gradient(135deg, #B8965A, #D4AF7A)"}}>
               {hotel.priceRange}/night
             </span>
           </div>
@@ -72,7 +72,8 @@ export default function HotelCard({
             href={bookingUrl}
             target="_blank"
             rel="noopener noreferrer nofollow"
-            className="inline-flex items-center px-5 py-2.5 bg-blue-600 text-white text-sm font-semibold rounded-lg hover:bg-blue-700 transition-colors"
+            className="inline-flex items-center px-6 py-3 text-white text-sm font-semibold rounded-full hover:shadow-lg transition-all hover:scale-105"
+            style={{background: "linear-gradient(135deg, #1B2B48, #2D4A7A)"}}
           >
             Check Availability
             <svg

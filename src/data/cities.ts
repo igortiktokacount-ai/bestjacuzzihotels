@@ -493,7 +493,7 @@ export const cities: City[] = [
     name: "Nashville",
     state: "TN",
     slug: "nashville-tn",
-    photo: "https://images.unsplash.com/photo-1545579133-99bb5ab189bd?w=800&h=400&fit=crop&q=80",
+    photo: "https://images.unsplash.com/photo-1606762903097-713bf356b8c2?w=800&h=400&fit=crop&q=80",
     intro:
       "Nashville's hotel boom has brought a wave of upscale properties with private jacuzzi suites. From Broadway honky-tonk energy to the quiet charm of the Gulch and 12South, Music City offers whirlpool rooms that blend Southern hospitality with modern luxury — perfect for couples, bachelorette parties, and weekend getaways.",
     hotels: [
@@ -1057,7 +1057,7 @@ export const cities: City[] = [
     name: "New Orleans",
     state: "LA",
     slug: "new-orleans-la",
-    photo: "https://images.unsplash.com/photo-1543393716-375f47996a77?w=800&h=400&fit=crop&q=80",
+    photo: "https://images.unsplash.com/photo-1572491769738-23bcba94e2a4?w=800&h=400&fit=crop&q=80",
     intro:
       "New Orleans brings its signature joie de vivre to the jacuzzi hotel experience. French Quarter courtyards with hidden hot tubs, Garden District mansions with antique-filled whirlpool suites, and Warehouse District lofts with modern soaking tubs — NOLA does luxury bathing with unmatched character and charm.",
     hotels: [

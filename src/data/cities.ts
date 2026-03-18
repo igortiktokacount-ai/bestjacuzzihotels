@@ -23,7 +23,7 @@ export const cities: City[] = [
     name: "New York City",
     state: "NY",
     slug: "new-york-city-ny",
-    photo: "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?w=800&h=400&fit=crop&q=80",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
     intro:
       "New York City offers some of the most luxurious jacuzzi hotel rooms in the country, from boutique Manhattan suites to stylish Brooklyn retreats. Whether you're celebrating a special occasion or just craving a relaxing escape in the city that never sleeps, these hotels deliver private whirlpool tubs with stunning skyline views.",
     hotels: [
@@ -117,7 +117,7 @@ export const cities: City[] = [
     name: "Las Vegas",
     state: "NV",
     slug: "las-vegas-nv",
-    photo: "https://images.unsplash.com/photo-1605833556294-ea5c7a74f57d?w=800&h=400&fit=crop&q=80",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Las_Vegas_Strip_09_2017_4897.jpg",
     intro:
       "Las Vegas is the jacuzzi suite capital of America. Nearly every major Strip resort offers rooms with whirlpool tubs, from Roman-themed fantasy suites to sleek modern penthouses. Whether you're planning a romantic getaway or a bachelor party, Vegas delivers unmatched variety in in-room spa experiences.",
     hotels: [
@@ -211,7 +211,7 @@ export const cities: City[] = [
     name: "Chicago",
     state: "IL",
     slug: "chicago-il",
-    photo: "https://images.unsplash.com/photo-1494522855154-9297ac14b55f?w=800&h=400&fit=crop&q=80",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Chicago_River_ferry_b.jpg",
     intro:
       "Chicago's hotel scene blends architectural grandeur with Midwestern warmth, and many of the city's finest properties offer private jacuzzi suites. From the Magnificent Mile to the trendy West Loop, you'll find whirlpool rooms with lakefront views, historic charm, and world-class amenities.",
     hotels: [
@@ -305,7 +305,7 @@ export const cities: City[] = [
     name: "Los Angeles",
     state: "CA",
     slug: "los-angeles-ca",
-    photo: "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?w=800&h=400&fit=crop&q=80",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hollywood_Sign_%28Zuschnitt%29.jpg",
     intro:
       "Los Angeles brings the glamour to in-room jacuzzi experiences. From rooftop hot tubs in West Hollywood to beachfront whirlpool suites in Santa Monica, LA's hotel scene offers a sun-soaked twist on luxury bathing. Many properties pair private tubs with outdoor terraces and Pacific Ocean views.",
     hotels: [
@@ -399,7 +399,7 @@ export const cities: City[] = [
     name: "Miami",
     state: "FL",
     slug: "miami-fl",
-    photo: "https://images.unsplash.com/photo-1503891450247-ee5f8ec46dc3?w=800&h=400&fit=crop&q=80",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Miamimetroarea.jpg",
     intro:
       "Miami's vibrant hotel scene is perfect for jacuzzi suite lovers. South Beach Art Deco gems, Brickell high-rises, and oceanfront resorts all offer private whirlpool experiences with a tropical flair. Pair your in-room hot tub with ocean breezes, rooftop pools, and Miami's legendary nightlife.",
     hotels: [
@@ -493,7 +493,7 @@ export const cities: City[] = [
     name: "Nashville",
     state: "TN",
     slug: "nashville-tn",
-    photo: "https://images.unsplash.com/photo-1606762903097-713bf356b8c2?w=800&h=400&fit=crop&q=80",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nashville%2C_TN_skyline.jpg",
     intro:
       "Nashville's hotel boom has brought a wave of upscale properties with private jacuzzi suites. From Broadway honky-tonk energy to the quiet charm of the Gulch and 12South, Music City offers whirlpool rooms that blend Southern hospitality with modern luxury — perfect for couples, bachelorette parties, and weekend getaways.",
     hotels: [
@@ -587,7 +587,7 @@ export const cities: City[] = [
     name: "San Antonio",
     state: "TX",
     slug: "san-antonio-tx",
-    photo: "https://images.unsplash.com/photo-1531218150217-54595bc2b934?w=800&h=400&fit=crop&q=80",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/7/70/Riverwalk20.jpg",
     intro:
       "San Antonio offers a uniquely Texan take on jacuzzi suite luxury. Hotels along the famous River Walk combine Spanish Colonial charm with modern comfort, while Hill Country resorts provide resort-style whirlpool experiences. It's one of the most affordable cities for luxury jacuzzi rooms in the US.",
     hotels: [
@@ -681,7 +681,7 @@ export const cities: City[] = [
     name: "Orlando",
     state: "FL",
     slug: "orlando-fl",
-    photo: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=400&fit=crop&q=80",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Lake-eola-park-orlando-florida.jpg",
     intro:
       "Orlando isn't just for theme parks — it's also a top destination for luxury jacuzzi suites. From resort villas near Disney to boutique hotels in downtown Orlando, you'll find private whirlpool rooms perfect for unwinding after a day at the parks or exploring Florida's natural beauty.",
     hotels: [
@@ -775,7 +775,7 @@ export const cities: City[] = [
     name: "Denver",
     state: "CO",
     slug: "denver-co",
-    photo: "https://images.unsplash.com/photo-1499336315816-097655dcfbda?w=800&h=400&fit=crop&q=80",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Denver_Downtown_Aerial%2C_December_2025.jpg",
     intro:
       "Denver's hotel scene blends Rocky Mountain ruggedness with urban sophistication. After a day skiing, hiking, or exploring the craft beer scene, nothing beats soaking in a private jacuzzi with mountain views. From LoDo lofts to Cherry Creek boutique hotels, the Mile High City delivers.",
     hotels: [
@@ -869,7 +869,7 @@ export const cities: City[] = [
     name: "Seattle",
     state: "WA",
     slug: "seattle-wa",
-    photo: "https://images.unsplash.com/photo-1438401171849-74ac270044ee?w=800&h=400&fit=crop&q=80",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/5/58/Seattle_Center_as_night_falls.jpg",
     intro:
       "Seattle's hotel scene pairs Pacific Northwest natural beauty with urban sophistication. Private jacuzzi suites here come with views of Puget Sound, Mount Rainier, and the city skyline. After exploring Pike Place Market or the tech-fueled food scene, a hot soak in your room is the perfect cap to a Seattle day.",
     hotels: [
@@ -963,7 +963,7 @@ export const cities: City[] = [
     name: "Atlanta",
     state: "GA",
     slug: "atlanta-ga",
-    photo: "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=800&h=400&fit=crop&q=80",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/c/c8/A2ATL20250614-0721_%28cropped%29.jpg",
     intro:
       "Atlanta's booming hotel market offers excellent jacuzzi suite options across the city. From the upscale Buckhead corridor to the trendy Midtown arts district and historic downtown, the ATL delivers Southern luxury with modern flair — and often at prices well below coastal cities.",
     hotels: [
@@ -1057,7 +1057,7 @@ export const cities: City[] = [
     name: "New Orleans",
     state: "LA",
     slug: "new-orleans-la",
-    photo: "https://images.unsplash.com/photo-1549965738-e1aaf1168943?w=800&h=400&fit=crop&q=80",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/c/cb/New_Orleans_from_the_Air_September_2019_-_Central_Business_District_Skyline_%28cropped%29.jpg",
     intro:
       "New Orleans brings its signature joie de vivre to the jacuzzi hotel experience. French Quarter courtyards with hidden hot tubs, Garden District mansions with antique-filled whirlpool suites, and Warehouse District lofts with modern soaking tubs — NOLA does luxury bathing with unmatched character and charm.",
     hotels: [

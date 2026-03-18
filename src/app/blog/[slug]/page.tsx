@@ -60,9 +60,10 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
       </section>
 
       {/* Article */}
+      <style dangerouslySetInnerHTML={{ __html: `.blog-prose a { color: #B8965A !important; text-decoration: underline; } .blog-prose a:hover { color: #96793E !important; }` }} />
       <article className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div
-          className="prose prose-lg max-w-none
+          className="blog-prose prose prose-lg max-w-none
             prose-headings:font-bold
             prose-h2:text-2xl prose-h2:mt-10 prose-h2:mb-4
             prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3

@@ -25,6 +25,9 @@ export const metadata: Metadata = {
     "Find the best hotels with private jacuzzi and whirlpool rooms in top US cities. Compare prices, read reviews, and book your perfect jacuzzi suite today.",
   metadataBase: new URL("https://bestjacuzzihotels.com"),
   openGraph: {
+    title: "Best Hotels with Jacuzzi in Room 2026 | BestJacuzziHotels.com",
+    description: "Find the best hotels with private jacuzzi and whirlpool rooms in top US cities. Compare prices, read reviews, and book your perfect jacuzzi suite today.",
+    url: "https://www.bestjacuzzihotels.com",
     type: "website",
     locale: "en_US",
     siteName: "BestJacuzziHotels.com",

@@ -1,4 +1,7 @@
 import Link from "next/link";
+import { cities } from "@/data/cities";
+
+const topCities = cities.slice(0, 8);
 
 export default function Footer() {
   return (
@@ -45,38 +48,16 @@ export default function Footer() {
           <div>
             <h3 className="text-white font-semibold mb-4">Top Cities</h3>
             <ul className="space-y-2 text-sm">
-              <li>
-                <Link
-                  href="/hotels-with-jacuzzi-in/new-york-city-ny"
-                  className="hover:text-[#D4AF7A] transition-colors"
-                >
-                  New York City
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/hotels-with-jacuzzi-in/las-vegas-nv"
-                  className="hover:text-[#D4AF7A] transition-colors"
-                >
-                  Las Vegas
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/hotels-with-jacuzzi-in/miami-fl"
-                  className="hover:text-[#D4AF7A] transition-colors"
-                >
-                  Miami
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href="/hotels-with-jacuzzi-in/nashville-tn"
-                  className="hover:text-[#D4AF7A] transition-colors"
-                >
-                  Nashville
-                </Link>
-              </li>
+              {topCities.map((city) => (
+                <li key={city.slug}>
+                  <Link
+                    href={`/hotels-with-jacuzzi-in/${city.slug}`}
+                    className="hover:text-[#D4AF7A] transition-colors"
+                  >
+                    {city.name}
+                  </Link>
+                </li>
+              ))}
             </ul>
           </div>
         </div>

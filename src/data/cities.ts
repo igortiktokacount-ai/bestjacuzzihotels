@@ -493,7 +493,7 @@ export const cities: City[] = [
     name: "Nashville",
     state: "TN",
     slug: "nashville-tn",
-    photo: "https://images.unsplash.com/photo-1548586196-aa5803b77379?w=800&h=400&fit=crop&q=80",
+    photo: "https://images.unsplash.com/photo-1545579133-99bb5ab189bd?w=800&h=400&fit=crop&q=80",
     intro:
       "Nashville's hotel boom has brought a wave of upscale properties with private jacuzzi suites. From Broadway honky-tonk energy to the quiet charm of the Gulch and 12South, Music City offers whirlpool rooms that blend Southern hospitality with modern luxury — perfect for couples, bachelorette parties, and weekend getaways.",
     hotels: [
@@ -775,7 +775,7 @@ export const cities: City[] = [
     name: "Denver",
     state: "CO",
     slug: "denver-co",
-    photo: "https://images.unsplash.com/photo-1619468129361-605ebea04b44?w=800&h=400&fit=crop&q=80",
+    photo: "https://images.unsplash.com/photo-1473188588951-666fce8e7c68?w=800&h=400&fit=crop&q=80",
     intro:
       "Denver's hotel scene blends Rocky Mountain ruggedness with urban sophistication. After a day skiing, hiking, or exploring the craft beer scene, nothing beats soaking in a private jacuzzi with mountain views. From LoDo lofts to Cherry Creek boutique hotels, the Mile High City delivers.",
     hotels: [

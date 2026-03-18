@@ -1057,7 +1057,7 @@ export const cities: City[] = [
     name: "New Orleans",
     state: "LA",
     slug: "new-orleans-la",
-    photo: "https://images.unsplash.com/photo-1572491769738-23bcba94e2a4?w=800&h=400&fit=crop&q=80",
+    photo: "https://images.unsplash.com/photo-1549965738-e1aaf1168943?w=800&h=400&fit=crop&q=80",
     intro:
       "New Orleans brings its signature joie de vivre to the jacuzzi hotel experience. French Quarter courtyards with hidden hot tubs, Garden District mansions with antique-filled whirlpool suites, and Warehouse District lofts with modern soaking tubs — NOLA does luxury bathing with unmatched character and charm.",
     hotels: [

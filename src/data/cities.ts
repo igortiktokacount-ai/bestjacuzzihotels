@@ -775,7 +775,7 @@ export const cities: City[] = [
     name: "Denver",
     state: "CO",
     slug: "denver-co",
-    photo: "https://images.unsplash.com/photo-1473188588951-666fce8e7c68?w=800&h=400&fit=crop&q=80",
+    photo: "https://images.unsplash.com/photo-1499336315816-097655dcfbda?w=800&h=400&fit=crop&q=80",
     intro:
       "Denver's hotel scene blends Rocky Mountain ruggedness with urban sophistication. After a day skiing, hiking, or exploring the craft beer scene, nothing beats soaking in a private jacuzzi with mountain views. From LoDo lofts to Cherry Creek boutique hotels, the Mile High City delivers.",
     hotels: [

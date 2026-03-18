@@ -8,14 +8,14 @@ export default function HomePage() {
       {/* Hero */}
       <section className="relative h-[600px] flex items-center justify-center overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1600&h=800&fit=crop&q=85"
-          alt="Luxury hotel jacuzzi room"
+          src="https://images.unsplash.com/photo-1507652313519-d4e9174996dd?w=1600&h=800&fit=crop&q=85"
+          alt="Luxury hotel jacuzzi bathtub room"
           fill
           className="object-cover"
           priority
           unoptimized
         />
-        <div className="absolute inset-0" style={{background: "linear-gradient(to bottom, rgba(27,43,72,0.75), rgba(27,43,72,0.85))"}} />
+        <div className="absolute inset-0" style={{background: "linear-gradient(to bottom, rgba(27,43,72,0.65), rgba(27,43,72,0.88))"}} />
 
         <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
           <p className="uppercase tracking-[0.3em] text-sm font-medium mb-4" style={{color: "#D4AF7A"}}>
@@ -41,11 +41,11 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 flex flex-wrap justify-center gap-8 text-sm">
           <div className="flex items-center gap-2">
             <span style={{color: "#D4AF7A"}}>★★★★★</span>
-            <span className="text-white/80">96 Hotels Reviewed</span>
+            <span className="text-white/80">240+ Hotels Reviewed</span>
           </div>
           <div className="flex items-center gap-2">
             <span style={{color: "#D4AF7A"}}>◆</span>
-            <span className="text-white/80">12 Top US Cities</span>
+            <span className="text-white/80">30 Top US Cities</span>
           </div>
           <div className="flex items-center gap-2">
             <span style={{color: "#D4AF7A"}}>✓</span>
@@ -66,7 +66,7 @@ export default function HomePage() {
             Explore Jacuzzi Hotels by City
           </h2>
           <p className="text-gray-500 max-w-xl mx-auto">
-            We&apos;ve handpicked the finest hotels with private jacuzzi rooms across 12 of America&apos;s top travel destinations.
+            We&apos;ve handpicked the finest hotels with private jacuzzi rooms across 30 of America&apos;s top travel destinations.
           </p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">

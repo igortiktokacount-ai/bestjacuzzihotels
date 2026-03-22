@@ -1,3 +1,6 @@
+import { blogBatch1 } from "./blog-batch1";
+import { blogBatch2 } from "./blog-batch2";
+
 export interface BlogPost {
   slug: string;
   title: string;
@@ -437,5 +440,617 @@ export const blogPosts: BlogPost[] = [
 <h3>Is a balcony jacuzzi private enough for couples?</h3>
 <p>It depends on the specific property and room. Higher floors generally offer more privacy than lower ones. Corner units and rooms with solid balcony walls (rather than glass railings) provide the most seclusion. When booking, specifically ask about the privacy level of the balcony. Request photos if the hotel doesn't show them clearly online. Most hotels with balcony jacuzzis are aware that privacy is a key selling point and design accordingly.</p>
 `,
+  },
+  ...blogBatch1,
+  ...blogBatch2,
+
+  {
+    slug: "best-jacuzzi-hotels-chicago",
+    title: "Best Hotels with Jacuzzi in Room in Chicago (2026)",
+    metaTitle: "Best Hotels with Jacuzzi in Room in Chicago 2026",
+    metaDescription: "Top Chicago jacuzzi hotels reviewed. Magnificent Mile suites, Gold Coast whirlpool rooms & romantic River North stays. Find your perfect Chicago suite.",
+    excerpt: "From iconic Magnificent Mile towers to intimate Gold Coast boutiques, Chicago's jacuzzi hotels deliver skyline views and lakefront luxury.",
+    date: "2026-03-01",
+    readTime: 7,
+    content: `
+<p>Chicago is one of America's greatest hotel cities, and its collection of jacuzzi suite hotels reflects the city's world-class ambition. Whether you want lakefront views from a soaking tub on the 40th floor or a cozy fireplace suite steps from the Riverwalk, the Windy City delivers.</p>
+
+<h2>Best Chicago Neighborhoods for Jacuzzi Hotels</h2>
+
+<h3>Magnificent Mile / Streeterville</h3>
+<p>The Mag Mile corridor — from the Chicago River to Oak Street Beach — is Chicago's premier hotel district. The Four Seasons, InterContinental, and Waldorf Astoria all anchor this stretch with exceptional jacuzzi suites. Expect to pay $350–$800/night for the very best views.</p>
+
+<h3>Gold Coast</h3>
+<p>Just north of the Mag Mile, the Gold Coast offers a slightly more residential feel with boutique luxury options. The Tremont Hotel and several intimate suites here start around $200/night with private soaking tubs.</p>
+
+<h3>River North</h3>
+<p>Chicago's gallery district and restaurant row, River North hotels like the Loews and Kimpton Palomar offer excellent value jacuzzi suites with walkability to 200+ restaurants.</p>
+
+<h2>What to Expect from Chicago Jacuzzi Hotels</h2>
+<p>Chicago's top jacuzzi hotels typically feature deep soaking tubs (not always jet-equipped), panoramic city or lake views, and marble bathroom finishes. True whirlpool jets are more common at mid-tier properties, while ultra-luxury hotels favor deep soaking freestanding tubs as the premium offering.</p>
+
+<h2>Best Time to Book a Chicago Jacuzzi Suite</h2>
+<p>January and February offer Chicago's lowest hotel rates — sometimes 40–60% off peak pricing. Summer (June–August) is beautiful but expensive. The Chicago Air and Water Show in August and major conventions drive prices up significantly.</p>
+
+<h2>Price Guide</h2>
+<ul>
+<li><strong>Budget ($150–$250/night):</strong> Kimpton Palomar, Hotel Indigo Magnificent Mile</li>
+<li><strong>Mid-range ($250–$400/night):</strong> Loews Chicago, Viceroy Chicago, ACME Hotel</li>
+<li><strong>Luxury ($400–$800+/night):</strong> Four Seasons, Waldorf Astoria, The Ritz-Carlton</li>
+</ul>
+
+<p><a href="https://www.booking.com/searchresults.html?ss=Chicago+Illinois+jacuzzi+hotel&aid=304142" target="_blank" rel="noopener nofollow">Check availability and current prices for Chicago jacuzzi hotels →</a></p>
+
+<h2>Tips for Booking</h2>
+<p>Always call the hotel directly after booking online to confirm your room has a jacuzzi or soaking tub — many hotels list standard rooms alongside suites in search results. Ask specifically: "Does this room have a whirlpool tub with jets, or a soaking tub?"</p>
+    `
+  },
+  {
+    slug: "honeymoon-hotels-jacuzzi-room",
+    title: "Best Honeymoon Hotels with Jacuzzi in Room (2026 Guide)",
+    metaTitle: "Honeymoon Hotels with Jacuzzi in Room - Top Picks 2026",
+    metaDescription: "Perfect honeymoon hotels with in-room jacuzzi. Romantic whirlpool suites for newlyweds across America's top destinations. Plan your dream first trip.",
+    excerpt: "Your honeymoon deserves a private jacuzzi suite. Here are the most romantic in-room whirlpool hotels for newlyweds across America.",
+    date: "2026-03-03",
+    readTime: 9,
+    content: `
+<p>Your honeymoon is the one trip where indulgence isn't optional — it's required. A hotel room with a private jacuzzi tub transforms a good honeymoon into a legendary one. Here's our guide to the most romantic in-room jacuzzi hotels for newlyweds across America.</p>
+
+<h2>What Makes a Perfect Honeymoon Jacuzzi Hotel?</h2>
+<p>The best honeymoon jacuzzi hotels share several characteristics beyond the tub itself:</p>
+<ul>
+<li><strong>Privacy</strong> — Secluded settings, private balconies, or secluded casitas</li>
+<li><strong>Romance amenities</strong> — Rose petals, champagne setup, turndown service</li>
+<li><strong>Atmosphere</strong> — Candlelit settings, fireplaces, canopy beds</li>
+<li><strong>Service</strong> — Attentive without being intrusive</li>
+<li><strong>Location</strong> — Somewhere you actually want to be</li>
+</ul>
+
+<h2>Top Honeymoon Jacuzzi Destinations</h2>
+
+<h3>Savannah, Georgia</h3>
+<p>America's most romantic city. The Gastonian — 17 rooms, every single one with a working fireplace and a whirlpool tub for two — is the gold standard of honeymoon hotels. Mossy oaks, cobblestone streets, and mint juleps complete the picture.</p>
+
+<h3>Sedona, Arizona</h3>
+<p>Red rock views from a private outdoor jacuzzi are an unforgettable honeymoon experience. Enchantment Resort and L'Auberge de Sedona both offer suites with soaking tubs facing the canyon walls.</p>
+
+<h3>Napa Valley, California</h3>
+<p>Vineyard views from a soaking tub at Meadowood or Auberge du Soleil are the definition of wine country romance. Prices are steep ($500–$1,500/night) but the experience is incomparable.</p>
+
+<h3>Asheville, North Carolina</h3>
+<p>The Inn on Biltmore Estate offers suites with soaking tubs overlooking the Blue Ridge Mountains. The historic Biltmore Estate right next door is a perfect day excursion.</p>
+
+<h2>Honeymoon Jacuzzi Hotel Packages</h2>
+<p>Most luxury hotels offer honeymoon packages that add significant value:</p>
+<ul>
+<li>Champagne and strawberries on arrival</li>
+<li>Couples massage credit</li>
+<li>Late checkout</li>
+<li>Room upgrade (when available)</li>
+<li>Romantic dinner reservation</li>
+</ul>
+<p>Always mention you're honeymooning when booking — hotels frequently upgrade newlyweds when rooms are available at no extra charge.</p>
+
+<p><a href="https://www.booking.com/searchresults.html?ss=romantic+jacuzzi+suite+honeymoon&aid=304142" target="_blank" rel="noopener nofollow">Browse honeymoon jacuzzi hotel packages →</a></p>
+
+<h2>Budget Planning</h2>
+<p>For a truly memorable honeymoon jacuzzi hotel, budget $300–$600/night for 3–5 nights. Many couples find that 3 exceptional nights in a world-class property beats 7 nights in a mediocre one. Prioritize quality over quantity for your honeymoon.</p>
+    `
+  },
+  {
+    slug: "anniversary-hotels-whirlpool-tub",
+    title: "Best Anniversary Hotels with Whirlpool Tub (Romantic Picks)",
+    metaTitle: "Anniversary Hotels with Whirlpool Tub 2026 - Romantic Picks",
+    metaDescription: "Celebrate your anniversary in a hotel with a private whirlpool tub. Romantic suites, couples packages & unforgettable experiences across the US.",
+    excerpt: "Mark your anniversary with a private whirlpool suite. Our top picks for romantic hotels where the jacuzzi is the centerpiece of the celebration.",
+    date: "2026-03-05",
+    readTime: 6,
+    content: `
+<p>An anniversary deserves more than flowers and dinner — it deserves a hotel room where the centerpiece is a private whirlpool tub for two, surrounded by candles and topped with champagne. Here's how to find the best anniversary hotels with whirlpool tubs across America.</p>
+
+<h2>Why Whirlpool Tub Hotels Are Perfect for Anniversaries</h2>
+<p>There's something uniquely romantic about a private whirlpool tub: it's an experience you share that can't be rushed, that forces you to slow down together, and that transforms even a single night into a memorable occasion. The best anniversary hotels build their entire suite experience around this idea.</p>
+
+<h2>Top Anniversary Whirlpool Hotel Experiences</h2>
+
+<h3>In-Room Champagne + Whirlpool Setup</h3>
+<p>Contact the hotel 48–72 hours before arrival and request an anniversary setup. Most luxury hotels will arrange champagne, rose petals, candles, and chocolates around the whirlpool tub for $50–$150 — one of the best hotel ROIs available.</p>
+
+<h3>Couples Spa + Whirlpool Suite Packages</h3>
+<p>Properties like the Ritz-Carlton, Four Seasons, and Waldorf Astoria offer couples packages that combine a 60–90 minute spa treatment with a premium whirlpool suite. These packages often include dinner reservations and can be booked 30–60 days in advance.</p>
+
+<h2>Best Anniversary Hotel Picks by Budget</h2>
+
+<h3>Under $200/night</h3>
+<p>Many Holiday Inn Express, Comfort Suites, and Hampton Inn locations offer whirlpool suites that punch well above their price point. Look for locations in secondary cities or slightly off-peak dates for the best value.</p>
+
+<h3>$200–$400/night</h3>
+<p>This range unlocks genuinely memorable experiences at Kimpton, Autograph Collection, and independent boutique hotels. Properties like Hotel Dapper in Columbus or The Gastonian in Savannah hit this range and deliver exceptional romance.</p>
+
+<h3>$400+/night</h3>
+<p>Full luxury territory — Four Seasons, Ritz-Carlton, Rosewood, Auberge. The whirlpool suites here are architectural features as much as amenities, often with freestanding soaking tubs, city or ocean views, and butler service.</p>
+
+<p><a href="https://www.booking.com/searchresults.html?ss=anniversary+whirlpool+suite+hotel&aid=304142" target="_blank" rel="noopener nofollow">Find anniversary whirlpool suite deals →</a></p>
+
+<h2>Pro Tips for Anniversary Hotel Bookings</h2>
+<ol>
+<li>Book 2–4 weeks ahead for weekday stays, 4–8 weeks for weekend stays</li>
+<li>Always mention your anniversary in the "Special Requests" field</li>
+<li>Call the hotel directly 2 days before arrival to confirm suite details</li>
+<li>Ask about complimentary upgrades — they happen more than you think</li>
+<li>Check if breakfast is included in anniversary packages</li>
+</ol>
+    `
+  },
+  {
+    slug: "hotels-with-jacuzzi-suite-near-me",
+    title: "Hotels with Jacuzzi Suite Near Me: How to Find the Best",
+    metaTitle: "Hotels with Jacuzzi Suite Near Me - Find the Best Options",
+    metaDescription: "How to find hotels with jacuzzi suites near you. Search tips, booking strategies, and what to ask hotels before you book your whirlpool suite.",
+    excerpt: "Finding a hotel with a real jacuzzi suite requires knowing the right search terms and questions to ask. Here's the complete guide.",
+    date: "2026-03-07",
+    readTime: 5,
+    content: `
+<p>Searching "hotels with jacuzzi suite near me" sounds simple, but hotel booking sites are notoriously bad at surfacing jacuzzi rooms in search results. Jacuzzi tubs are often buried in room descriptions, mislabeled, or only available in premium suites that aren't prominently displayed. Here's how to actually find them.</p>
+
+<h2>The Problem with "Jacuzzi Hotel" Searches</h2>
+<p>Most hotel booking platforms don't have a reliable "jacuzzi" or "whirlpool tub" filter. The result: you spend 45 minutes clicking through individual room descriptions trying to find the word "whirlpool" or "soaking tub with jets." This guide will save you that time.</p>
+
+<h2>Best Search Strategies</h2>
+
+<h3>Use Google, Not Booking Sites</h3>
+<p>Google search "hotels with jacuzzi in room [your city]" — you'll find curated lists (like this one!) that have already done the research. Booking sites' search filters are inconsistent; Google surfaces dedicated jacuzzi hotel guides.</p>
+
+<h3>Booking.com Filter Trick</h3>
+<p>On Booking.com, use the "Hot tub" filter under "Facilities." It's not perfect but catches most jacuzzi hotels. Then read individual room descriptions to confirm it's in-room, not a shared hot tub.</p>
+
+<h3>Call the Hotel Directly</h3>
+<p>The most reliable method: call the front desk and ask: "Do you have rooms with a private in-room jacuzzi or whirlpool tub?" This takes 2 minutes and eliminates all ambiguity.</p>
+
+<h2>Terminology Guide</h2>
+<p>Hotels use different terms for the same thing — here's what each means:</p>
+<ul>
+<li><strong>Jacuzzi</strong> — A jetted whirlpool tub (Jacuzzi is actually a brand name)</li>
+<li><strong>Whirlpool tub</strong> — Same as jacuzzi, generic term</li>
+<li><strong>Soaking tub</strong> — A deep tub, but NOT necessarily jetted</li>
+<li><strong>Hot tub</strong> — Could be shared or private; always clarify</li>
+<li><strong>Jetted tub</strong> — Has water jets; may or may not be a full whirlpool</li>
+</ul>
+
+<p><a href="https://www.booking.com/searchresults.html?ss=jacuzzi+suite+hotel&aid=304142" target="_blank" rel="noopener nofollow">Search jacuzzi suite hotels on Booking.com →</a></p>
+
+<h2>Questions to Ask Before Booking</h2>
+<ol>
+<li>Is the jacuzzi/whirlpool tub private and in-room (not shared)?</li>
+<li>Does it have jets, or is it a standard soaking tub?</li>
+<li>What is the tub size — can it comfortably fit two people?</li>
+<li>Is there a window or view near the tub?</li>
+<li>Are there any additional fees for the suite vs. standard rooms?</li>
+</ol>
+
+<h2>Best Apps for Finding Jacuzzi Hotels</h2>
+<p>Beyond the major booking sites, the Hotel Tonight app occasionally surfaces last-minute deals on premium jacuzzi suites at significant discounts. For advance planning, Booking.com has the most comprehensive global inventory with the most detailed room descriptions.</p>
+    `
+  },
+  {
+    slug: "budget-jacuzzi-hotels-under-150",
+    title: "Cheap Hotels with Jacuzzi in Room Under $150/Night",
+    metaTitle: "Cheap Hotels with Jacuzzi in Room Under $150 Night 2026",
+    metaDescription: "Affordable jacuzzi hotels under $150/night. Find budget-friendly whirlpool suites without sacrificing romance. Deals, tips & best value properties.",
+    excerpt: "You don't need to spend $500/night for a private jacuzzi. Here's how to find excellent whirlpool suites for under $150 a night.",
+    date: "2026-03-09",
+    readTime: 6,
+    content: `
+<p>The good news: exceptional jacuzzi hotel rooms don't require a $500/night budget. With the right strategies and some flexibility on location and dates, you can find private whirlpool suite experiences for under $150 a night that feel genuinely luxurious.</p>
+
+<h2>Where to Find Cheap Jacuzzi Hotels</h2>
+
+<h3>Mid-Size American Cities</h3>
+<p>Cities like Indianapolis, Louisville, Kansas City, Memphis, and Raleigh consistently offer jacuzzi suites at top-tier hotels for $130–$180/night — prices that would get you a basic room in NYC or LA. The hotel quality is often indistinguishable from their coastal counterparts.</p>
+
+<h3>Weekday Stays</h3>
+<p>Sunday through Thursday nights are significantly cheaper at urban jacuzzi hotels. A suite that costs $350 on Saturday night often drops to $140–$180 on a Tuesday. Flexible travelers can find remarkable deals.</p>
+
+<h3>Off-Peak Seasons</h3>
+<p>January and February are the cheapest months at most US hotels. Summer resort destinations (beach hotels, mountain properties) are often cheapest in winter. City hotels are cheapest in their off-seasons.</p>
+
+<h2>Best Hotel Brands for Affordable Jacuzzi Suites</h2>
+
+<h3>Comfort Suites / Comfort Inn & Suites</h3>
+<p>Many Choice Hotels properties offer "whirlpool suites" with two-person jetted tubs starting at $89–$130/night. Consistent quality, clean rooms, free breakfast included at most locations.</p>
+
+<h3>Hampton Inn & Suites</h3>
+<p>Hilton's Hampton brand frequently has whirlpool suites at $100–$150/night, especially in suburban and secondary market locations. Breakfast included and consistent quality standards.</p>
+
+<h3>Residence Inn / TownePlace Suites</h3>
+<p>Marriott's extended-stay brands often have whirlpool suites at excellent prices, particularly for multi-night stays. Full kitchens make longer romantic getaways more affordable.</p>
+
+<p><a href="https://www.booking.com/searchresults.html?ss=jacuzzi+suite+hotel+cheap&aid=304142" target="_blank" rel="noopener nofollow">Search affordable jacuzzi hotels →</a></p>
+
+<h2>Deal-Finding Strategies</h2>
+<ul>
+<li><strong>Hotel Tonight app</strong> — Last-minute deals on premium suites (day-of bookings can be 40–60% off)</li>
+<li><strong>Priceline Express Deals</strong> — Blind booking (you don't know the hotel until after booking) can unlock jacuzzi suites at deep discounts</li>
+<li><strong>AAA/AARP discounts</strong> — 5–20% off at participating hotels</li>
+<li><strong>Loyalty programs</strong> — Marriott Bonvoy, Hilton Honors, and IHG Rewards points can unlock free jacuzzi suites</li>
+</ul>
+
+<h2>What to Expect Under $150</h2>
+<p>At this price point, you'll typically get a jetted tub (often two-person, sometimes single), clean and comfortable surroundings, and all the basics. Don't expect a butler, turndown service, or gourmet restaurant — but the jacuzzi experience itself can be just as enjoyable as a $500/night suite.</p>
+    `
+  },
+  {
+    slug: "las-vegas-jacuzzi-suite-hotels",
+    title: "Best Las Vegas Hotels with Jacuzzi Suites (2026 Guide)",
+    metaTitle: "Best Las Vegas Jacuzzi Suite Hotels 2026 - Strip & Off-Strip",
+    metaDescription: "Top Las Vegas jacuzzi suite hotels on the Strip and beyond. From Bellagio to boutique Summerlin retreats. Find your perfect Vegas whirlpool suite.",
+    excerpt: "Las Vegas jacuzzi suites range from Strip mega-resort extravagance to intimate off-Strip boutiques. Here's how to find the best.",
+    date: "2026-03-11",
+    readTime: 8,
+    content: `
+<p>Las Vegas is arguably America's greatest hotel city, and its jacuzzi suite game reflects that. From sky villas with private pools and jacuzzis overlooking the entire Strip to intimate off-Strip retreats, Vegas offers the widest range of in-room hot tub experiences in the country.</p>
+
+<h2>The Strip vs. Off-Strip for Jacuzzi Suites</h2>
+
+<h3>The Strip</h3>
+<p>Strip jacuzzi suites at properties like Caesars Palace, The Venetian, Bellagio, and Wynn deliver the full Vegas spectacle — Strip views, 24/7 room service, mega-resort amenities. Prices range from $200 to $2,000+/night depending on the property and view.</p>
+
+<h3>Off-Strip</h3>
+<p>The Palms (with its famous Sky Villas), Red Rock Canyon Resort in Summerlin, and boutique Henderson properties offer jacuzzi suites in more intimate settings, often 20–40% cheaper than comparable Strip options.</p>
+
+<h2>Las Vegas Jacuzzi Suite Highlights</h2>
+
+<h3>Caesars Palace - Palace Tower Jacuzzi Suite</h3>
+<p>One of Vegas's most iconic suite experiences. A two-person jetted tub facing floor-to-ceiling windows with Strip views. Roman décor, 24/7 butler available, access to the Garden of the Gods pool complex.</p>
+
+<h3>The Venetian - Grand Suite</h3>
+<p>Every room at The Venetian is a suite — the Grand Suites feature oversized soaking tubs, sunken living rooms, and the famous Venetian canal views. Starting around $250/night on weekdays.</p>
+
+<h3>Wynn Las Vegas - Tower Suites</h3>
+<p>Wynn's Tower Suites wing is a hotel-within-a-hotel experience with dedicated check-in, butler service, and suites featuring deep soaking tubs with golf course and Strip views.</p>
+
+<h2>Booking Tips for Vegas Jacuzzi Suites</h2>
+<ul>
+<li>Book Sunday–Thursday for 40–60% off weekend rates</li>
+<li>Avoid major convention weeks (CES in January, CONEXPO in March) when prices triple</li>
+<li>Call the resort's VIP line (not the general number) for suite availability</li>
+<li>Check third-party sites — sometimes cheaper than direct booking for suites</li>
+</ul>
+
+<p><a href="https://www.booking.com/searchresults.html?ss=Las+Vegas+jacuzzi+suite+hotel&aid=304142" target="_blank" rel="noopener nofollow">Check Las Vegas jacuzzi suite availability →</a></p>
+
+<h2>Las Vegas Jacuzzi Suite Price Guide</h2>
+<table>
+<tr><th>Property</th><th>Weeknight</th><th>Weekend</th></tr>
+<tr><td>Bellagio (Spa Suite)</td><td>$280–$450</td><td>$450–$750</td></tr>
+<tr><td>Caesars (Palace Jacuzzi)</td><td>$200–$380</td><td>$380–$650</td></tr>
+<tr><td>The Venetian (Grand Suite)</td><td>$220–$400</td><td>$400–$700</td></tr>
+<tr><td>Wynn (Tower Suite)</td><td>$350–$600</td><td>$600–$1,000</td></tr>
+</table>
+    `
+  },
+  {
+    slug: "romantic-weekend-getaway-jacuzzi",
+    title: "Best Romantic Weekend Getaway Hotels with Jacuzzi (2026)",
+    metaTitle: "Romantic Weekend Getaway Hotels with Jacuzzi 2026",
+    metaDescription: "Plan the perfect romantic weekend getaway with a private jacuzzi suite. Top destinations, hotels & booking tips for couples escaping for the weekend.",
+    excerpt: "A romantic weekend with a private jacuzzi is one of the best investments you can make in a relationship. Here's where to go.",
+    date: "2026-03-13",
+    readTime: 7,
+    content: `
+<p>There are few better investments in a relationship than a well-planned romantic weekend getaway — and nothing elevates that weekend like a hotel room with a private jacuzzi. The combination of a new place, great food, and a private whirlpool tub creates experiences couples remember for decades.</p>
+
+<h2>How to Choose the Perfect Romantic Jacuzzi Weekend</h2>
+
+<h3>Consider Drive Distance</h3>
+<p>The best romantic getaways are often 1–3 hours from home — far enough to feel like an escape, close enough that you're not exhausted from travel. A 2-hour drive to a charming small town boutique hotel often beats a 5-hour flight to a crowded resort.</p>
+
+<h3>Match the Experience to the Couple</h3>
+<ul>
+<li><strong>Foodies:</strong> Cities with great restaurant scenes (Nashville, Charleston, New Orleans, Austin)</li>
+<li><strong>Outdoors lovers:</strong> Mountain or lake settings (Asheville, Park City, Lake Tahoe)</li>
+<li><strong>History buffs:</strong> Historic districts (Savannah, Charleston, Natchez, Santa Fe)</li>
+<li><strong>Beach people:</strong> Coastal properties (Coronado, Santa Monica, The Outer Banks)</li>
+</ul>
+
+<h2>Best Romantic Weekend Jacuzzi Destinations</h2>
+
+<h3>Asheville, North Carolina</h3>
+<p>Blue Ridge Mountain views from a soaking tub, world-class craft breweries, the Biltmore Estate, and some of the best restaurants in the South. The Inn on Biltmore Estate and several boutique properties on Merrimon Avenue offer exceptional jacuzzi suite experiences.</p>
+
+<h3>Savannah, Georgia</h3>
+<p>America's most romantic city for a reason. Spanish moss, cobblestones, Forsyth Park fountains, and The Gastonian's legendary fireplace-and-whirlpool-tub rooms create an incomparable atmosphere for couples.</p>
+
+<h3>Charleston, South Carolina</h3>
+<p>Rainbow Row, horse-drawn carriages, and boutique hotels in antebellum mansions. Zero George Street and Belmond Charleston Place offer exquisite jacuzzi suites in one of America's most beautiful cities.</p>
+
+<h3>Santa Fe, New Mexico</h3>
+<p>Adobe architecture, world-class art galleries, and a distinctive high-desert beauty. La Posada de Santa Fe Resort and Inn of the Five Graces offer jacuzzi suites that perfectly capture the unique Santa Fe atmosphere.</p>
+
+<p><a href="https://www.booking.com/searchresults.html?ss=romantic+weekend+jacuzzi+hotel&aid=304142" target="_blank" rel="noopener nofollow">Find romantic weekend jacuzzi deals →</a></p>
+
+<h2>Weekend Getaway Planning Checklist</h2>
+<ol>
+<li>Book hotel 2–4 weeks in advance (6+ weeks for popular destinations)</li>
+<li>Make dinner reservations at the same time as hotel booking</li>
+<li>Request anniversary/romantic setup if applicable</li>
+<li>Pack champagne or wine (many hotels allow outside bottles)</li>
+<li>Plan one activity and leave the rest unscheduled</li>
+<li>Arrange pet/house coverage so you can truly disconnect</li>
+</ol>
+    `
+  },
+  {
+    slug: "hotels-with-outdoor-jacuzzi",
+    title: "Hotels with Private Outdoor Jacuzzi on Balcony or Patio",
+    metaTitle: "Hotels with Private Outdoor Jacuzzi or Hot Tub 2026",
+    metaDescription: "Find hotels with private outdoor jacuzzi on your balcony, patio or terrace. From desert casitas to ski resort hot tubs — the ultimate luxury hotel experience.",
+    excerpt: "A private outdoor jacuzzi changes everything. Soaking under open skies with views that take your breath away is a hotel experience like no other.",
+    date: "2026-03-15",
+    readTime: 7,
+    content: `
+<p>If an in-room jacuzzi is luxurious, an outdoor jacuzzi on a private balcony or patio is transcendent. The combination of fresh air, open skies, and surrounding landscape — whether it's a desert canyon, ski slope, or ocean horizon — creates hotel experiences that simply cannot be replicated indoors.</p>
+
+<h2>Types of Hotel Outdoor Jacuzzi Experiences</h2>
+
+<h3>Balcony Hot Tub Suites</h3>
+<p>Found primarily at ski resorts and oceanfront hotels, balcony hot tubs let you soak while watching the slopes, waves, or city lights from your private perch. These suites are in highest demand and often sell out first — book early.</p>
+
+<h3>Plunge Pool Casitas</h3>
+<p>Common at desert resort hotels in Arizona, New Mexico, and California, private plunge pools (often heated to jacuzzi temperatures) sit on enclosed private patios. The Andaz Scottsdale, Four Seasons Scottsdale, and L'Horizon Palm Springs are excellent examples.</p>
+
+<h3>Overwater Bungalow Hot Tubs</h3>
+<p>A growing trend at US luxury properties, particularly in Florida Keys and Hawaii. Conrad Bora Bora set the global standard, but excellent domestic options exist with hot tubs on overwater decks.</p>
+
+<h2>Best Hotels with Private Outdoor Jacuzzis</h2>
+
+<h3>Desert Destinations</h3>
+<p><strong>Enchantment Resort, Sedona AZ</strong> — Suites with outdoor private hot tubs facing Boynton Canyon red rocks. Stargazing from a hot tub in Sedona is a bucket-list experience.<br>
+<strong>Andaz Scottsdale Resort</strong> — Freestanding bungalows with private plunge pools (heated to 102°F) set amid desert landscape art installations.</p>
+
+<h3>Mountain & Ski Destinations</h3>
+<p><strong>St. Regis Deer Valley, UT</strong> — Ski-in/ski-out suites with outdoor private jacuzzis facing the Wasatch Mountains at 9,000 feet elevation.<br>
+<strong>The Lodge at Blue Sky, Park City UT</strong> — Freestanding yurts and cabins with outdoor hot tubs in a spectacular Wasatch foothills setting.</p>
+
+<h3>Oceanfront Properties</h3>
+<p><strong>Canoe Place Inn, Hampton Bays NY</strong> — Newly renovated suites with outdoor jacuzzis overlooking the Shinnecock Bay.<br>
+<strong>The Inn at Pelican Bay, Naples FL</strong> — Suites with private lanai jacuzzis overlooking the Gulf of Mexico.</p>
+
+<p><a href="https://www.booking.com/searchresults.html?ss=hotel+private+outdoor+jacuzzi+balcony&aid=304142" target="_blank" rel="noopener nofollow">Find hotels with private outdoor jacuzzi →</a></p>
+
+<h2>What to Ask When Booking</h2>
+<ul>
+<li>Is the outdoor hot tub truly private, or shared with adjacent rooms?</li>
+<li>Is it screened or fenced for privacy?</li>
+<li>What is the water temperature maintained at?</li>
+<li>Is it available year-round or seasonal?</li>
+<li>What is the view from the hot tub?</li>
+</ul>
+    `
+  },
+  {
+    slug: "best-jacuzzi-suites-miami",
+    title: "Best Hotels with Jacuzzi Suite in Miami (2026 Guide)",
+    metaTitle: "Best Miami Hotels with Jacuzzi Suite 2026 - South Beach & Beyond",
+    metaDescription: "Top Miami jacuzzi suite hotels. South Beach oceanfront whirlpool rooms, Brickell luxury towers & boutique Wynwood suites. Book your Miami escape.",
+    excerpt: "Miami's luxury hotel scene is world-class, and its jacuzzi suites deliver ocean views, art deco glamour, and warm Florida nights.",
+    date: "2026-03-16",
+    readTime: 6,
+    content: `
+<p>Miami's hotel scene is internationally recognized as among the world's finest, and its jacuzzi suite offerings reflect that status. From iconic Art Deco South Beach properties to sleek Brickell financial district towers, Miami delivers jacuzzi suite experiences as glamorous and diverse as the city itself.</p>
+
+<h2>Best Miami Neighborhoods for Jacuzzi Hotels</h2>
+
+<h3>South Beach (SoBe)</h3>
+<p>The legendary Art Deco district is Miami's hotel epicenter. Ocean Drive, Collins Avenue, and the surrounding blocks are lined with luxury hotels, many offering oceanfront suites with soaking tubs. The Setai, Faena Hotel, and 1 Hotel South Beach are the neighborhood's finest jacuzzi suite properties.</p>
+
+<h3>Brickell / Downtown Miami</h3>
+<p>Miami's financial district has exploded with luxury hotels in recent years. JW Marriott Miami, EAST Miami, and the Four Seasons Brickell offer sleek urban jacuzzi suites with Biscayne Bay and downtown skyline views.</p>
+
+<h3>Mid-Beach / Surfside</h3>
+<p>The stretch between South Beach and Bal Harbour offers a quieter, more residential vibe with exceptional luxury. The Surf Club Four Seasons (in the restored 1930 Surf Club) offers among the most exclusive jacuzzi suite experiences in all of Miami.</p>
+
+<h2>Top Miami Jacuzzi Suite Hotels</h2>
+
+<h3>The Setai Miami Beach ($500–$1,200/night)</h3>
+<p>Three oceanfront pools, an acclaimed Asian restaurant, and suites featuring deep soaking tubs with direct ocean views. The Setai represents the pinnacle of Miami Beach luxury.</p>
+
+<h3>Faena Hotel Miami Beach ($400–$900/night)</h3>
+<p>Alan Faena's surreal art hotel on Mid-Beach with gold-trimmed mammoths in the lobby and bespoke suites featuring soaking tubs. The Tierra Santa Healing House is one of Miami's best hotel spas.</p>
+
+<h3>1 Hotel South Beach ($300–$700/night)</h3>
+<p>A sustainability-focused luxury hotel directly on the beach with oceanfront suites featuring soaking tubs, rooftop pools, and the Cow's End farmer's market. One of South Beach's most Instagram-worthy properties.</p>
+
+<p><a href="https://www.booking.com/searchresults.html?ss=Miami+jacuzzi+suite+hotel&aid=304142" target="_blank" rel="noopener nofollow">Check Miami jacuzzi suite availability →</a></p>
+
+<h2>Miami Jacuzzi Hotel Booking Tips</h2>
+<ul>
+<li>Book 4–8 weeks in advance for South Beach — it books faster than almost any US hotel market</li>
+<li>Art Basel (December) and Ultra Music Festival (March) cause massive price spikes</li>
+<li>January–March is "season" — beautiful weather but 30–50% higher rates</li>
+<li>Summer (June–August) offers the best deals but is hot and humid</li>
+</ul>
+    `
+  },
+  {
+    slug: "hotels-with-in-room-hot-tub-california",
+    title: "Best Hotels with In-Room Hot Tub in California (2026)",
+    metaTitle: "Hotels with In-Room Hot Tub California 2026 - Top Picks",
+    metaDescription: "California's best hotels with private in-room hot tubs. From Napa Valley wine country to LA luxury and San Diego beachfront. Find your CA jacuzzi suite.",
+    excerpt: "California offers more variety of in-room hot tub hotel experiences than any other state — from wine country soaks to desert plunge pools.",
+    date: "2026-03-17",
+    readTime: 8,
+    content: `
+<p>California is the ultimate state for jacuzzi hotel variety. In a single state you can find oceanfront hot tubs on the Malibu coast, private plunge pools in Palm Springs desert, wine country soaking tubs in Napa Valley, and urban luxury suites with Bay Area panoramas. No other state comes close.</p>
+
+<h2>California Regions for In-Room Hot Tub Hotels</h2>
+
+<h3>Napa Valley & Wine Country</h3>
+<p>The gold standard for California jacuzzi hotel romance. Meadowood Napa Valley, Auberge du Soleil, and Carneros Resort all offer suites with private outdoor soaking tubs surrounded by vineyard views. Prices range from $500 to $1,500+/night, but the experience is in a class of its own.</p>
+
+<h3>Palm Springs & Coachella Valley</h3>
+<p>The mid-century modern aesthetic of Palm Springs is perfectly suited for private plunge pools and hot tubs. Esperanza at La Quinta, the Parker Palm Springs, and several boutique properties offer casitas with private outdoor jacuzzis under the desert stars.</p>
+
+<h3>Big Sur & Carmel</h3>
+<p>Post Ranch Inn, perched 1,200 feet above the Pacific, offers treehouse suites with private outdoor hot tubs and some of the world's most dramatic hotel views. A life-changing jacuzzi experience, if the budget allows ($1,000+/night).</p>
+
+<h3>Lake Tahoe</h3>
+<p>Year-round jacuzzi heaven — ski in winter, hike in summer, soak year-round. The Ritz-Carlton Lake Tahoe at Northstar offers suites with outdoor jacuzzis facing the Sierra Nevada. Edgewood Tahoe on the lake's south shore is equally spectacular.</p>
+
+<h3>Los Angeles</h3>
+<p>Beverly Hills Hotel, Hotel Bel-Air, and Shutters on the Beach in Santa Monica all offer suites with soaking tubs. Hollywood's Chateau Marmont legendary bungalows have private outdoor jacuzzis in their garden suites.</p>
+
+<p><a href="https://www.booking.com/searchresults.html?ss=California+hotel+in-room+hot+tub+jacuzzi&aid=304142" target="_blank" rel="noopener nofollow">Search California in-room hot tub hotels →</a></p>
+
+<h2>California Hot Tub Hotel Price Guide</h2>
+<ul>
+<li><strong>Budget ($150–$250):</strong> Palm Springs boutique motels with private plunge pools</li>
+<li><strong>Mid-range ($250–$500):</strong> Santa Barbara, Monterey, Sonoma boutique hotels</li>
+<li><strong>Luxury ($500–$1,000):</strong> Napa Valley, Malibu, Beverly Hills properties</li>
+<li><strong>Ultra-luxury ($1,000+):</strong> Post Ranch Inn, Meadowood, Auberge du Soleil</li>
+</ul>
+
+<h2>Booking Tips for California Hot Tub Hotels</h2>
+<p>Wine country in September–October (harvest season) and Big Sur in summer book out months in advance. Palm Springs is cheapest in summer but temperatures reach 110°F. The best value California jacuzzi hotel experiences are in the shoulder seasons — April–May and October–November.</p>
+    `
+  },
+  {
+    slug: "best-jacuzzi-hotels-texas",
+    title: "Best Hotels with Jacuzzi in Room in Texas (2026 Guide)",
+    metaTitle: "Best Texas Hotels with Jacuzzi in Room 2026 - Austin, Dallas, SA",
+    metaDescription: "Top Texas jacuzzi hotels in Austin, Dallas, San Antonio & Houston. Hill Country resort suites, downtown luxury whirlpool rooms. Book your TX escape.",
+    excerpt: "Texas does everything big, and its jacuzzi hotel scene is no exception — from Austin's lakeside luxury to San Antonio River Walk suites.",
+    date: "2026-03-18",
+    readTime: 7,
+    content: `
+<p>Texas is a vast state with surprisingly diverse jacuzzi hotel experiences. Austin's creative energy, San Antonio's colonial charm, Dallas's cosmopolitan luxury, and the Texas Hill Country's rustic elegance each deliver distinct but excellent in-room hot tub experiences.</p>
+
+<h2>Texas Jacuzzi Hotels by City</h2>
+
+<h3>Austin</h3>
+<p>Austin's hotel scene has exploded alongside its tech boom. Four Seasons Hotel Austin, Austin Proper Hotel, and Fairmont Austin offer the finest jacuzzi suites, with Lady Bird Lake and downtown skyline views. See our full <a href="/blog/hotels-with-jacuzzi-in-room-guide">guide to Austin jacuzzi hotels</a> for details.</p>
+
+<h3>San Antonio</h3>
+<p>San Antonio's River Walk setting creates a uniquely romantic backdrop. Hotel Emma at Pearl (a converted 1894 brewery), La Cantera Resort & Spa, and the Hyatt Hill Country Resort offer exceptional suites with soaking tubs.</p>
+<ul>
+<li><strong>Hotel Emma at Pearl:</strong> $280–$520/night, soaking tubs in converted brewery suites</li>
+<li><strong>La Cantera Resort & Spa:</strong> $250–$480/night, Hill Country views with spa suites</li>
+<li><strong>Mokara Hotel & Spa:</strong> $220–$440/night, River Walk location with rooftop pool</li>
+</ul>
+
+<h3>Dallas</h3>
+<p>Dallas's luxury hotel corridor along Uptown and the Arts District features some of Texas's finest properties:</p>
+<ul>
+<li><strong>The Rosewood Mansion on Turtle Creek:</strong> $380–$720/night, Dallas's most prestigious address since 1980</li>
+<li><strong>The Joule Dallas:</strong> $280–$520/night, iconic arts hotel with rooftop pool overhanging the street</li>
+<li><strong>Four Seasons Resort and Club Dallas at Las Colinas:</strong> $320–$600/night, golf resort with jacuzzi suites</li>
+</ul>
+
+<h3>Houston</h3>
+<ul>
+<li><strong>Hotel ZaZa Museum District:</strong> $250–$480/night, boldly designed fantasy suites with oversized whirlpool tubs</li>
+<li><strong>The Post Oak Hotel at Uptown Houston:</strong> $350–$650/night, Forbes Five-Star tower with butler-serviced suites</li>
+<li><strong>Marriott Marquis Houston:</strong> $200–$400/night, Texas-shaped rooftop lazy river, suites with soaking tubs</li>
+</ul>
+
+<p><a href="https://www.booking.com/searchresults.html?ss=Texas+hotel+jacuzzi+suite&aid=304142" target="_blank" rel="noopener nofollow">Find Texas jacuzzi suite deals →</a></p>
+
+<h2>Texas Hill Country: The Hidden Gem</h2>
+<p>Fredericksburg and the surrounding Texas Hill Country offer a completely different jacuzzi hotel experience — boutique guesthouses and B&Bs with outdoor hot tubs facing vineyard and cedar hill landscapes. Many Hill Country accommodations offer private outdoor jacuzzis for $150–$300/night, making it one of America's best value romantic getaway destinations.</p>
+    `
+  },
+  {
+    slug: "jacuzzi-hotel-room-tips",
+    title: "In-Room Jacuzzi Hotel Tips: Get the Most from Your Stay",
+    metaTitle: "In-Room Jacuzzi Hotel Tips - How to Get the Most from Your Stay",
+    metaDescription: "Expert tips for maximizing your in-room jacuzzi hotel experience. How to book, what to bring, how to use the tub, and how to make it romantic.",
+    excerpt: "Getting a jacuzzi hotel room is just the first step. Here's how to make the experience genuinely unforgettable.",
+    date: "2026-03-19",
+    readTime: 5,
+    content: `
+<p>Booking a jacuzzi hotel room is exciting — but walking in and finding a lukewarm two-person tub crammed between the toilet and the window can deflate that excitement fast. With the right preparation and a few insider tips, your in-room jacuzzi hotel experience can be genuinely magical.</p>
+
+<h2>Before You Book</h2>
+
+<h3>Verify the Tub Details</h3>
+<p>Don't trust photos alone. Call the hotel and ask: (1) Does the room have a whirlpool tub with jets, or a soaking tub without jets? (2) Can it comfortably fit two people? (3) What is the view from the tub? (4) Is there a window near the tub? This one call prevents 90% of jacuzzi hotel disappointments.</p>
+
+<h3>Read Recent Reviews</h3>
+<p>Search TripAdvisor and Google reviews specifically for mentions of "jacuzzi," "hot tub," or "whirlpool." Recent reviews will tell you if the jets work, if the tub is clean, and if the experience delivered on the promise.</p>
+
+<h2>At Booking</h2>
+
+<h3>Request Romantic Setup</h3>
+<p>When booking online, use the "Special Requests" field to mention any special occasion (anniversary, honeymoon, birthday). Then call the hotel 2 days before arrival to confirm and ask about their romantic setup options — most hotels offer rose petals, candles, and champagne for $50–$150.</p>
+
+<h3>Ask About View</h3>
+<p>Specifically request a high-floor room or a room with a specific view you want. "I'd love a room where the jacuzzi faces the city view" is a completely reasonable request that hotel staff can often accommodate.</p>
+
+<h2>Making the Most of the Jacuzzi</h2>
+
+<h3>Timing Your Soak</h3>
+<p>The best jacuzzi hotel experiences happen in the evening after dinner, or in the morning before checking out. Use bubble bath sparingly — too many bubbles overflow and create a mess. Most hotels provide bath salts or jacuzzi tablets that are more appropriate.</p>
+
+<h3>Lighting</h3>
+<p>Bring a small candle (check hotel fire policy) or use your phone's ambient lighting app. The room lighting around most jacuzzi suites is designed for functional use, not romance. Dimming or adding warm candlelight transforms the atmosphere instantly.</p>
+
+<h3>Temperature</h3>
+<p>Set the jacuzzi temperature 15–20 minutes before use to reach your preferred warmth. Most hotel jacuzzis max out around 104°F. Start at 100°F and adjust — being too hot early in a soak shortens the experience.</p>
+
+<h2>What to Pack</h2>
+<ul>
+<li>Bath salts or jacuzzi tablets (hotel-provided ones are often generic)</li>
+<li>Champagne flutes (most hotel glasses are wine glasses)</li>
+<li>Bluetooth speaker for music</li>
+<li>Fluffy robes (or request hotel robes in advance)</li>
+<li>Snacks/charcuterie for poolside nibbling</li>
+</ul>
+
+<p><a href="https://www.booking.com/searchresults.html?ss=jacuzzi+suite+hotel&aid=304142" target="_blank" rel="noopener nofollow">Find jacuzzi suite hotels near you →</a></p>
+    `
+  },
+  {
+    slug: "couples-spa-hotel-weekend",
+    title: "Best Couples Spa Hotels with Jacuzzi for a Weekend Escape",
+    metaTitle: "Couples Spa Hotels with Jacuzzi Weekend Escape 2026",
+    metaDescription: "Top couples spa hotels with in-room jacuzzi for a perfect weekend escape. From Napa to Scottsdale, find the best spa-and-suite pairings for two.",
+    excerpt: "The perfect couples weekend: a world-class spa by day, a private jacuzzi in your suite by night. Here's where to find the best of both.",
+    date: "2026-03-20",
+    readTime: 6,
+    content: `
+<p>The ultimate couples hotel experience combines two elements: a world-class spa for couples treatments and a private in-room jacuzzi for your own time. When both are exceptional, the result is a weekend that genuinely revitalizes a relationship and creates lasting memories.</p>
+
+<h2>What to Look for in a Couples Spa Jacuzzi Hotel</h2>
+<ul>
+<li><strong>Couples treatment room</strong> — A spa room with two side-by-side tables for simultaneous massages</li>
+<li><strong>Relaxation lounge</strong> — A post-treatment lounge where you can stay in robes, sip tea, and decompress together</li>
+<li><strong>Thermal circuit</strong> — Sauna, steam room, and cold plunge circuit for pre-treatment preparation</li>
+<li><strong>In-room jacuzzi</strong> — A private tub to continue the relaxation after returning to your suite</li>
+</ul>
+
+<h2>Top Couples Spa + Jacuzzi Hotel Combinations</h2>
+
+<h3>Miraval Arizona Resort & Spa (Tucson)</h3>
+<p>A dedicated all-inclusive wellness resort where every activity is designed for transformation. Life in Balance Spa offers extraordinary couples experiences, and suites feature soaking tubs for unwinding after an intensive spa day. One of America's great couples wellness retreats.</p>
+
+<h3>The Greenbrier (White Sulphur Springs, WV)</h3>
+<p>A legendary American resort since 1778, offering a National Historic Landmark experience with the Greenbrier Spa's acclaimed couples treatments and grand suites with soaking tubs. A completely unique American grand resort experience.</p>
+
+<h3>The Spa at Stein Eriksen Lodge (Deer Valley, UT)</h3>
+<p>A world-class ski resort spa offering couples mountain stone massages with panoramic Deer Valley views, followed by your suite's deep soaking tub at 9,000 feet elevation. Winter bucket-list material.</p>
+
+<h3>Ojai Valley Inn (Ojai, CA)</h3>
+<p>A legendary Southern California resort spa with a 31,000 sq ft spa facility and Spanish colonial casitas featuring soaking tubs and fireplaces. The daily Pink Moment sunset from Spa Village is a signature Ojai experience.</p>
+
+<p><a href="https://www.booking.com/searchresults.html?ss=couples+spa+hotel+jacuzzi+suite&aid=304142" target="_blank" rel="noopener nofollow">Find couples spa and jacuzzi hotel packages →</a></p>
+
+<h2>Booking Your Couples Spa Weekend</h2>
+<p>Book spa treatments at the same time you book your hotel room — popular couples treatments (especially weekend afternoon slots) sell out 3–6 weeks in advance at top resort spas. Many hotels offer packages combining spa credits with room rates that provide 15–25% savings compared to booking separately.</p>
+
+<h2>Sample Couples Spa Weekend Itinerary</h2>
+<p><strong>Friday:</strong> Arrive by 4pm, check into jacuzzi suite, room service dinner, evening soak<br>
+<strong>Saturday:</strong> Morning yoga, couples massage 11am, lunch at resort restaurant, afternoon pool/spa thermal circuit, sunset walk, dinner reservation<br>
+<strong>Sunday:</strong> Late checkout, morning jacuzzi soak, resort brunch, depart refreshed</p>
+    `
   },
 ];

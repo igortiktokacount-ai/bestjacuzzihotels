@@ -41,7 +41,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 flex flex-wrap justify-center gap-8 text-sm">
           <div className="flex items-center gap-2">
             <span style={{color: "#D4AF7A"}}>★★★★★</span>
-            <span className="text-white/80">240+ Hotels Reviewed</span>
+            <span className="text-white/80">360+ Hotels Reviewed</span>
           </div>
           <div className="flex items-center gap-2">
             <span style={{color: "#D4AF7A"}}>◆</span>

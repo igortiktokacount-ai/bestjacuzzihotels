@@ -39,7 +39,7 @@ export default function HotelCard({
   cityName: string;
   index: number;
 }) {
-  const bookingUrl = `https://www.booking.com/searchresults.html?ss=${encodeURIComponent(hotel.name + " " + cityName)}&aid=304142`;
+  const bookingUrl = `https://www.awin1.com/cread.php?awinmid=6258&awinpid=2822530&ued=${encodeURIComponent(`https://www.booking.com/searchresults.html?ss=${hotel.name} ${cityName}&lang=en-us`)}`;
 
   return (
     <div className="bg-white rounded-2xl overflow-hidden hover:shadow-xl transition-all duration-300 border border-gray-100">

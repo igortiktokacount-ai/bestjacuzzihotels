@@ -10,7 +10,7 @@ export default function Header() {
     <header className="bg-white shadow-[0_1px_3px_rgba(0,0,0,0.08)] sticky top-0 z-50">
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-[72px] flex items-center justify-between">
         <Link href="/" className="flex items-center">
-          <Image src="/logo.png" alt="BestJacuzziHotels" width={220} height={60} style={{ objectFit: "contain" }} priority />
+          <Image src="/logo.png" alt="BestJacuzziHotels" width={1536} height={1024} style={{ height: '52px', width: 'auto', objectFit: 'contain' }} priority />
         </Link>
 
         {/* Desktop nav */}

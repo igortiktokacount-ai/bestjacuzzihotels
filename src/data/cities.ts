@@ -1,5 +1,6 @@
 import { citiesBatch1 } from "./cities-batch1";
 import { citiesBatch2 } from "./cities-batch2";
+import { citiesBatch3 } from "./cities-batch3";
 
 export interface Hotel {
   name: string;
@@ -1152,6 +1153,7 @@ export const cities: City[] = [
   },
   ...citiesBatch1,
   ...citiesBatch2,
+  ...citiesBatch3,
 
   {
     name: "Austin",

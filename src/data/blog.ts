@@ -1,5 +1,6 @@
 import { blogBatch1 } from "./blog-batch1";
 import { blogBatch2 } from "./blog-batch2";
+import { blogBatch3 } from "./blog-batch3";
 
 export interface BlogPost {
   slug: string;
@@ -443,6 +444,7 @@ export const blogPosts: BlogPost[] = [
   },
   ...blogBatch1,
   ...blogBatch2,
+  ...blogBatch3,
 
   {
     slug: "best-jacuzzi-hotels-chicago",
